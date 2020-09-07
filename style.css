@@ -1,0 +1,154 @@
+*{margin: 0; padding: 0; box-sizing: border-box;
+ font-family: 'Varta', sans-serif; }
+
+
+
+/*navbar section*/
+.navbar-brand {
+    font-size: 1.7rem;
+}
+
+
+.nav-item .nav-link{
+	font-weight: bold;
+	color: black!important;
+}
+
+.nav-item .nav-link:hover{
+	color: red!important;
+	transition: 0.4s;
+}
+
+/*image section after navbar*/
+
+.header{
+	background-image: url(image/1.jpg);
+	background-size: cover;
+	height: 80vh;
+	width: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.write h1 {
+    padding-top: 96px;
+    padding-left: 35px;
+}
+
+#land{
+	color:#10DE62;
+}
+
+#pera{
+	padding-left: 35px;
+	color: white;
+}
+
+
+.btn1{
+	padding-left: 35px;
+}
+.btn1 .btn{
+	background-color: #000;
+	color: white;
+}
+.btn1 .btn:hover{
+	color: #10DE62;
+	transition: 1s;
+}
+
+
+/*exlusive section*/
+.para{
+	width: 70%;
+}
+
+/*mobile app screen shot section*/
+.app{
+	background-image: url(image/1.jpg);
+	height: auto;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.first{
+	color: white;
+}
+/*mobile app design section*/
+#flexi{
+	color: red;
+}
+
+
+/*rowsection start*/
+.hard{
+	height: 530px;
+}
+.middle{
+	    height: 530px;
+}
+.carousel-inner {
+    position: relative;
+    width: 89%;
+    overflow: hidden;
+}
+
+/*row section end*/
+
+/*get mobile app section*/
+.get{
+	background-image: url(image/9.jpg);
+	background-size: cover;
+	height: auto;
+	width: 100%;
+	background-attachment: fixed;
+   
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.btn{
+	background-color: white;
+	color: black;
+}
+
+.get .wri .btn3:hover{
+	color: yellowgreen;
+	transition: 0.7s;
+}
+
+.get .wri .btn4:hover{
+	color: gray;
+	transition: 0.7s;
+}
+
+.get .wri .btn5:hover{
+	color: #09A0EE;
+	transition: 0.7s;
+}
+
+
+/*contact section start*/
+.fa{
+	cursor: pointer;
+}
+
+.mainicons .fa{
+	padding-right: 40px;
+}
+.mainicons .fa:hover{
+	color: #0ff;
+	transition: 0.6s;
+}
+
+/*footer section*/
+.footer{
+	background-color: white;
+	color: black;
+}
+
+/*all section end*/
+
+
